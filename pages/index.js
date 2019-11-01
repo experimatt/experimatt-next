@@ -3,7 +3,7 @@ import Nav from '../components/nav'
 export default () => (
   <div>
     <Nav />
-    <div className='w-full flex items-center justify-center p4'>
+    <div className='w-full flex items-center justify-center pb-8'>
       <img
         src='matt-decuir.jpg'
         alt='Matt Decuir headshot'
